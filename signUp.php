@@ -21,7 +21,7 @@ if($_POST){
 		//echo '編號是'.$_POST['error_num'];
 		$Num = $_POST['error_num'];
 		//echo '轉型號的編號'.$Num;
-		$Msg = "aaaalkhlkjlkaa";//設定Msg
+		//$Msg = "aaaalkhlkjlkaa";//設定Msg
 
 		//echo  "start<BR>";
 		//產生一個PDO（PHP Data Object）物件
