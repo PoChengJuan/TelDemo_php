@@ -1,4 +1,5 @@
 <?php
+///Library/WebServer/Documents/TelDemo_php
 require_once 'config.php';
 $config = $server_config['db'];
 
